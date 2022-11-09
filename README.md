@@ -19,12 +19,12 @@
 2. นางสาวนารากร วรกุล 633020553-6
 3. นายสุริยา ปันดอน 633020554-4
 
-# Google Data Studio
-* https://datastudio.google.com/u/0/reporting/f11ea810-5936-493d-ab1a-f5acc5f94f78/page/Vs26C?fbclid=IwAR1pk4S80cUJnyjwp26ExHVExQbNB01kHslVZDIwkHHipg416h1DQblkyUc
+## Google Data Studio
+* HYPERLINK("https://datastudio.google.com/u/0/reporting/f11ea810-5936-493d-ab1a-f5acc5f94f78/page/Vs26C?fbclid=IwAR1pk4S80cUJnyjwp26ExHVExQbNB01kHslVZDIwkHHipg416h1DQblkyUc","DASHBOARD")
 
-# Colab
+## Colab
 * https://colab.research.google.com/github/1234567890qqqqqq/BasicProg_DataViz65/blob/main/project.ipynb
 
-# Presentation
+## Presentation
 * https://www.canva.com/design/DAFRQLbbk7s/3ba8fsyGhBYsv-zlVdoJIA/edit?utm_content=DAFRQLbbk7s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
 
