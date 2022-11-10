@@ -23,5 +23,5 @@
 ## Colab
 * [Project](https://colab.research.google.com/github/1234567890qqqqqq/BasicProg_DataViz65/blob/main/project.ipynb)
 ## Presentation
-* [Canva]([https://www.canva.com/design/DAFRQLbbk7s/3ba8fsyGhBYsv-zlVdoJIA/edit?utm_content=DAFRQLbbk7s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFRQLbbk7s/jTTjl7x90azUEY-VQVGd1Q/view?utm_content=DAFRQLbbk7s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink))
+* [Canva]([https://www.canva.com/design/DAFRQLbbk7s/3ba8fsyGhBYsv-zlVdoJIA/edit?utm_content=DAFRQLbbk7s&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton](https://www.canva.com/design/DAFRQLbbk7s/jTTjl7x90azUEY-VQVGd1Q/view?utm_content=DAFRQLbbk7s&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 
